@@ -11,3 +11,5 @@
 
 ### Стек:
 Python Pandas Seaborn Plotly визуализация данных
+
+<a href="https://github.com/Alex-tsyg/Yandex-Practicum/blob/main/Project9/obchepit.pdf">Презентация</a>
