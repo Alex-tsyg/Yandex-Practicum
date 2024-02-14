@@ -18,7 +18,7 @@
 | 12.   | [Final AB тесты ](https://github.com/Alex-tsyg/Yandex-Practicum/blob/main/final/) | Мной была проведена оценка результатов A/B-теста. | Pandas, Numpy, Matplotlib, Scipy, Plotly, Seaborn |
 | 13.   | [Final SQL ](https://github.com/Alex-tsyg/Yandex-Practicum/blob/main/final/) | C помощью SQL запросов мной был проведен анализ базы данных о проджае книг. | Pandas, Sqlalchemy, PostgreSQL, SQL  |
 
-# Личные проекты
+# Личные проекты (PET-проекты)
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Анализ авторынка Казахстана за январь-сентябрь 2019 года](https://github.com/Alex-tsyg/Yandex-Practicum/blob/main/ProjectKZ/)| В ходе работы была произведена очистка данных и заполнение пробелов в датасете, затем был проведен анализ авто рынка Казахстана, в т.ч. BCG анализ | Pandas,numpy,matplotlib, seaborn,Python   |
