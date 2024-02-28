@@ -8,3 +8,4 @@
 ### Стек:
 Pandas,Python
 
+Презентация: https://raw.githubusercontent.com/Alex-tsyg/Yandex-Practicum/main/ProjectNKO/НКО%20Больничка.pdf
