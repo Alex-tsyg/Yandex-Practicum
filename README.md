@@ -25,5 +25,6 @@
 | 2.   | [Анализ вакансий LinkedIn для джуниоров](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectLinkedin/)| В ходе работы была предвариательная подготовка и очистка данных, затем был построен интерактивный дашборд в Tableau | Pandas, Numpy ,Python, Tableau   |
 | 3.   | [Аналитика рынка вакансий для HR-агентства](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectHR/)| В ходе работы были выделены доп. признаки вакансий и проведен анализ, какие признаки вызывают повышенный интерес у пользователей | Pandas, Numpy ,Python |
 | 4.   | [НКО Благотворительная больница](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectNKO/)| В ходе работы был проведен анализ данных и даны рекомендации по улучшению эффективности рекламы. | Pandas, Numpy, Matplotlib, Python |
+| 5.   | [Аналитика данных компании Gectaro](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProgectGetacro/)| В ходе работы был проведен анализ данных и даны рекомендации по удержанию клиентов и расширения доп. услуг. | Pandas, Numpy, Matplotlib, Python |
  
 
