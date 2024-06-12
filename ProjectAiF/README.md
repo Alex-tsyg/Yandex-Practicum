@@ -8,4 +8,5 @@
 Описать и сегментировать доноров для фонда "Доброе сердце"
 ### Стек:
 Pandas,Python
-
+### Благодарственное письмо заказчика:
+https://raw.githubusercontent.com/Alex-tsyg/Yandex-Practicum/main/ProjectAiF/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.jpg
