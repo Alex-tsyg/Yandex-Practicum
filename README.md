@@ -26,6 +26,6 @@
 | 3.   | [Аналитика рынка вакансий для HR-агентства](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectHR/)| В ходе работы были выделены доп. признаки вакансий и проведен анализ, какие признаки вызывают повышенный интерес у пользователей | Pandas, Numpy ,Python |
 | 4.   | [НКО Благотворительная больница](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectNKO/)| В ходе работы был проведен анализ данных и даны рекомендации по улучшению эффективности рекламы. | Pandas, Numpy, Matplotlib, Python |
 | 5.   | [Аналитика данных компании Gectaro](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProgectGetacro/)| В ходе работы был проведен анализ данных и даны рекомендации по удержанию клиентов и расширения доп. услуг. | Pandas, Numpy, Matplotlib, Python |
-| 6.   | [Анализ клиентов для фонда АиФ Доброе сердце](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectAiF)| В ходе работы был проведен анализ данных и даны рекомендации по работе с клиентами на основе RFM сегментации и когортного анализа. | Pandas, Numpy, Matplotlib, Python |
+| 6.   | [Анализ клиентов для фонда АиФ Доброе сердце](https://github.com/Alex-tsyg/Yandex-Practicum/tree/main/ProjectAiF)| В ходе работы был проведен анализ данных и даны рекомендации по работе с клиентами на основе RFM сегментации и когортного анализа. Получено благодартсвенное письмо от заказчика. | Pandas, Numpy, Matplotlib, Python |
   
 
